@@ -10,4 +10,4 @@
 ## Where to contact me
 - @PeacefulWilliam@hear-me.social - Mastodon
 - @contrarybaton60 - Discord
-- @peacefulwilliam:constellatory.net - Matrix
+- @peacefulwilliam:matrix.org - Matrix
